@@ -1,3 +1,14 @@
+
+⚠️ DEPRECATED — This project is no longer maintained
+This version of OpenBTS-UMTS is deprecated and will no longer receive updates or bug fixes.
+Please use the newer version instead:
+👉 https://github.com/rldv1/kapusta
+The old repository remains available for archival and reference purposes.
+Thank you to everyone who has used or contributed to this project!
+
+
+
+
 # OpenBTS-UMTS + OsmoHLR 3G
 🚀 Version 1.1 Released!
 
