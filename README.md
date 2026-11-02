@@ -2,8 +2,8 @@
 This version of OpenBTS-UMTS is deprecated and will no longer receive updates or bug fixes.
 Please use this build for working UMTS:
 👉 https://github.com/rldv1/kapusta
-The old repository remains available for archival and reference purposes.
-Thank you to everyone who has used or contributed to this project good bye good night!
+this old repository remains available for archival and reference purposes.
+Thank you to everyone who has used or contributed to this project good evening good bye and good night!
 
 
 
